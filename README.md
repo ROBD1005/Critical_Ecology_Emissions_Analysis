@@ -49,9 +49,9 @@ Critical Ecology integrates a socio-political perspective into environmental sci
 
 - **`results/`**: Contains the results of the analysis, including summary statistics, regression models, and findings, with a focus on socio-political contexts.
 
-## License
+## Funding
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Acknowledgments
 
